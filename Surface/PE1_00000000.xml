@@ -1,0 +1,6392 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20170810-20170815</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.126330510     </MEAN_OBS>
+ <STDV_OBS>   1.46588554E-05 </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   8.81714584E-07 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.562626660     </BIAS>
+ <RMSE>  0.133269534     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         714 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.566182733     </BIAS>
+ <RMSE>  0.255756170     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263929099     </MEAN_OBS>
+ <STDV_OBS>   1.45674683E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1010 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         621 </NUM>
+ <MEAN>   1.88578852E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.581227958     </BIAS>
+ <RMSE>  0.271389395     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1010 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         621 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.567185462     </BIAS>
+ <RMSE>  -3.34488936E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.214669585     </MEAN_OBS>
+ <STDV_OBS>   9.89872206E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.33435651E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.486530095     </BIAS>
+ <RMSE>  0.334651321     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.425750613     </BIAS>
+ <RMSE>  0.125479206     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.194624677     </MEAN_OBS>
+ <STDV_OBS>   7.81851340E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.25121196E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.608519077     </BIAS>
+ <RMSE>  0.379049122     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.604758024     </BIAS>
+ <RMSE>  0.183217391     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.349384069     </MEAN_OBS>
+ <STDV_OBS>   1.39269338E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1317 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.15240642E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.855241358     </BIAS>
+ <RMSE>  0.328485340     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1317 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.726072788     </BIAS>
+ <RMSE>  -1.07134487E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.23740032E-02 </MEAN_OBS>
+ <STDV_OBS>   4.04885504E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1415 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.80686438E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.583165467     </BIAS>
+ <RMSE>  0.294028521     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1415 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.381946206     </BIAS>
+ <RMSE>   8.59883521E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125867844     </MEAN_OBS>
+ <STDV_OBS>   6.25034678E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1049 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.79570377E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.596521914     </BIAS>
+ <RMSE>  0.267440706     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1049 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.482211173     </BIAS>
+ <RMSE>   1.04231173E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.43559971E-02 </MEAN_OBS>
+ <STDV_OBS>   4.65308636E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1218 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.19970188E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.516108930     </BIAS>
+ <RMSE>  0.556368172     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1218 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.246670648     </BIAS>
+ <RMSE>  0.131877512     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.61016968E-02 </MEAN_OBS>
+ <STDV_OBS>   4.01591315E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1427 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   4.70277291E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.764227271     </BIAS>
+ <RMSE>  0.279833108     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1427 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.230096117     </BIAS>
+ <RMSE>  0.209182948     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.84180346E-02 </MEAN_OBS>
+ <STDV_OBS>   3.47737130E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   1.21735662E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.576780319     </BIAS>
+ <RMSE>   7.64729828E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.443720013     </BIAS>
+ <RMSE>  -6.20462280E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77827618E-02 </MEAN_OBS>
+ <STDV_OBS>   2.23405543E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.63156640E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.296967506     </BIAS>
+ <RMSE>  0.449045599     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.229698494     </BIAS>
+ <RMSE>   7.57578854E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.65509498E-02 </MEAN_OBS>
+ <STDV_OBS>   6.68503121E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.24035513E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.319333673     </BIAS>
+ <RMSE>  0.394659340     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.200178117     </BIAS>
+ <RMSE>  -9.94541682E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.15190279E-02 </MEAN_OBS>
+ <STDV_OBS>   4.63862643E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         790 </NUM>
+ <MEAN>   1.65446836E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.359446734     </BIAS>
+ <RMSE>  0.441679716     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         790 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.375321597     </BIAS>
+ <RMSE>  -8.56875256E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.834453583     </MEAN_OBS>
+ <STDV_OBS>  0.496181756     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   6.53996989E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.945216775     </BIAS>
+ <RMSE>  0.320510030     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         119 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.11613417     </BIAS>
+ <RMSE>  -1.16651999E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.640816331     </MEAN_OBS>
+ <STDV_OBS>   1.64649799E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   4.89189624E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.13327086     </BIAS>
+ <RMSE>  0.192459598     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06250370     </BIAS>
+ <RMSE>   9.27987918E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.35946232E-02 </MEAN_OBS>
+ <STDV_OBS>   4.56214213E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.06418481E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.340802401     </BIAS>
+ <RMSE>  0.135861799     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.175267369     </BIAS>
+ <RMSE>   4.16189712E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.121355928     </MEAN_OBS>
+ <STDV_OBS>   1.61522552E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   5.50002384E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.398139834     </BIAS>
+ <RMSE>  0.437169850     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.340605199     </BIAS>
+ <RMSE>  -1.16805453E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.03023518E-02 </MEAN_OBS>
+ <STDV_OBS>   8.50273743E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.84642610E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.270284206     </BIAS>
+ <RMSE>  0.315463722     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163507119     </BIAS>
+ <RMSE>  0.961146355     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.65397560E-02 </MEAN_OBS>
+ <STDV_OBS>   3.34904194E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.12364918E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.319885552     </BIAS>
+ <RMSE>  0.308055043     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.206301019     </BIAS>
+ <RMSE>  0.726194859     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.74467964E-02 </MEAN_OBS>
+ <STDV_OBS>   2.85971124E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.37739135E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.389935344     </BIAS>
+ <RMSE>  0.327858448     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.318433553     </BIAS>
+ <RMSE>   7.95310065E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15453352E-02 </MEAN_OBS>
+ <STDV_OBS>   1.07916218E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.91914841E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.349483997     </BIAS>
+ <RMSE>  0.357362449     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.227862418     </BIAS>
+ <RMSE>   6.77493513E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.33146647E-02 </MEAN_OBS>
+ <STDV_OBS>   3.26035470E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.09890697E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.435291290     </BIAS>
+ <RMSE>  0.346232206     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2308 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.357837170     </BIAS>
+ <RMSE>  -7.56416237E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.74020115E-02 </MEAN_OBS>
+ <STDV_OBS>   1.71651728E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.75928891E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.302235156     </BIAS>
+ <RMSE>   2.74198279E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2327 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.171063930     </BIAS>
+ <RMSE>  -7.32053630E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.12205917E-02 </MEAN_OBS>
+ <STDV_OBS>   1.50472770E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.32304933E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.392905682     </BIAS>
+ <RMSE>  0.423535675     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2355 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.431136489     </BIAS>
+ <RMSE>   5.64568825E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135722280     </MEAN_OBS>
+ <STDV_OBS>   1.79525949E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.04662055E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.575043797     </BIAS>
+ <RMSE>  0.159266964     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2407 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.466647148     </BIAS>
+ <RMSE>  -9.46003571E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.58790416E-02 </MEAN_OBS>
+ <STDV_OBS>   3.63057887E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.49169218E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.346420854     </BIAS>
+ <RMSE>  0.292929858     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2440 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296525806     </BIAS>
+ <RMSE>   1.30181434E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.25979826E-02 </MEAN_OBS>
+ <STDV_OBS>   2.45877798E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.01321182E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.566267252     </BIAS>
+ <RMSE>   9.88554806E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2452 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.331348091     </BIAS>
+ <RMSE>  -5.28791314E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.50167991E-02 </MEAN_OBS>
+ <STDV_OBS>   1.39186173E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.45715533E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.449029863     </BIAS>
+ <RMSE>   5.05464971E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2456 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.226292253     </BIAS>
+ <RMSE>   2.55057737E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.77155533E-02 </MEAN_OBS>
+ <STDV_OBS>   5.78494291E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.04287470E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.868074477     </BIAS>
+ <RMSE>   5.48809767E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2469 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.388564527     </BIAS>
+ <RMSE>  -1.85541064E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.250485480     </MEAN_OBS>
+ <STDV_OBS>  0.273126841     </STDV_OBS>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   4.08532955E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.961800814     </BIAS>
+ <RMSE>   1.02393059E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2520 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         103 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.419114113     </BIAS>
+ <RMSE> -0.131897211     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.565306127     </MEAN_OBS>
+ <STDV_OBS>  0.581146359     </STDV_OBS>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          98 </NUM>
+ <MEAN>   8.26193243E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.32635725     </BIAS>
+ <RMSE>  0.281135917     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2562 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          98 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.23782086     </BIAS>
+ <RMSE>  -7.68591985E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.47928347E-03 </MEAN_OBS>
+ <STDV_OBS>   6.05489804E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.50943992E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.678576708     </BIAS>
+ <RMSE>   6.08201744E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2589 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.96942045E-02 </BIAS>
+ <RMSE>  -4.35163826E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.10000002     </MEAN_OBS>
+ <STDV_OBS>   1.46419217E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   2.48017634E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.832455456     </BIAS>
+ <RMSE>  0.171962813     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2590 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.844879448     </BIAS>
+ <RMSE> -0.199156955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.323076963     </MEAN_OBS>
+ <STDV_OBS>  0.316225529     </STDV_OBS>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   4.54355478E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   2.83196568     </BIAS>
+ <RMSE>  0.294933647     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2664 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          52 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.742416203     </BIAS>
+ <RMSE>  -2.62833331E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102127656     </MEAN_OBS>
+ <STDV_OBS>   1.21860081E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.33600950E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.678919852     </BIAS>
+ <RMSE>  0.239367098     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2500 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.476578265     </BIAS>
+ <RMSE>  0.209101245     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.110526316     </MEAN_OBS>
+ <STDV_OBS>   8.55385233E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.95596838E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.630123019     </BIAS>
+ <RMSE>  0.144903988     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2513 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.513339102     </BIAS>
+ <RMSE>  -1.83564681E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.83314679E-02 </MEAN_OBS>
+ <STDV_OBS>   7.31520922E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.81018367E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.613039851     </BIAS>
+ <RMSE>   2.64222547E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2615 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.267946839     </BIAS>
+ <RMSE>  -4.92709316E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.65733509E-02 </MEAN_OBS>
+ <STDV_OBS>   1.65488364E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.84180010E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.155219123     </BIAS>
+ <RMSE>  0.321286231     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.26572722E-02 </BIAS>
+ <RMSE>  0.231542945     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.18477000E-02 </MEAN_OBS>
+ <STDV_OBS>   2.27150322E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.90427442E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.346696854     </BIAS>
+ <RMSE>  0.185880959     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.241653487     </BIAS>
+ <RMSE>  0.149280861     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.482089639     </MEAN_OBS>
+ <STDV_OBS>   1.80652833     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          67 </NUM>
+ <MEAN>  0.267397612     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.63319457     </BIAS>
+ <RMSE> -0.103113271     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          67 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.89336097     </BIAS>
+ <RMSE>  -5.22539578E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.17977393E-02 </MEAN_OBS>
+ <STDV_OBS>   2.16019200E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   8.16067113E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.517847061     </BIAS>
+ <RMSE>  0.104720704     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.411438257     </BIAS>
+ <RMSE>  -3.93247791E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.31019047E-02 </MEAN_OBS>
+ <STDV_OBS>   8.31080615E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.69024769E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.316045344     </BIAS>
+ <RMSE>   5.67413718E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.141091764     </BIAS>
+ <RMSE>  -6.36159116E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.204479337     </MEAN_OBS>
+ <STDV_OBS>   4.24609985E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.51088912E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.481781572     </BIAS>
+ <RMSE>  0.673197627     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2221 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.611660004     </BIAS>
+ <RMSE>  -8.21219198E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.163493827     </MEAN_OBS>
+ <STDV_OBS>   3.60629931E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.21052924E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.666748047     </BIAS>
+ <RMSE>  0.278274298     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.691657424     </BIAS>
+ <RMSE>   1.63495652E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.03135866E-02 </MEAN_OBS>
+ <STDV_OBS>  0.160794675     </STDV_OBS>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.38320234E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.263739347     </BIAS>
+ <RMSE>  0.511974275     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2247 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.178475663     </BIAS>
+ <RMSE>  0.509208500     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.97200415E-02 </MEAN_OBS>
+ <STDV_OBS>   5.37878223E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.97826250E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.338783205     </BIAS>
+ <RMSE>  0.269277036     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2453 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.221532166     </BIAS>
+ <RMSE>  0.335392058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.357480288     </MEAN_OBS>
+ <STDV_OBS>   1.56871641     </STDV_OBS>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>  0.338393986     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.575815499     </BIAS>
+ <RMSE> -0.133184075     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2458 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         127 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.65680397     </BIAS>
+ <RMSE> -0.163831323     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.35220993E-02 </MEAN_OBS>
+ <STDV_OBS>   2.71673434E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   2.19814910E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.420499831     </BIAS>
+ <RMSE>   6.81181177E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2488 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197054327     </BIAS>
+ <RMSE>   5.18423878E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.128782704     </MEAN_OBS>
+ <STDV_OBS>   3.87572800E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   1.36589166E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.574937046     </BIAS>
+ <RMSE>  0.236856118     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2536 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.432599753     </BIAS>
+ <RMSE>  -7.93327577E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.13559303E-02 </MEAN_OBS>
+ <STDV_OBS>   4.39923897E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   2.73062574E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.498908222     </BIAS>
+ <RMSE>  0.188231230     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2574 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.297762215     </BIAS>
+ <RMSE>   8.80139880E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.05039245E-02 </MEAN_OBS>
+ <STDV_OBS>   3.05579044E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.54210848E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.302534014     </BIAS>
+ <RMSE>   7.72205368E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.238772795     </BIAS>
+ <RMSE>   1.92514493E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.39240506E-02 </MEAN_OBS>
+ <STDV_OBS>   3.74635201E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1355 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         790 </NUM>
+ <MEAN>   6.30451177E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.357938081     </BIAS>
+ <RMSE>  0.460828751     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1355 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         790 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194776088     </BIAS>
+ <RMSE>   2.86081317E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.173124313     </MEAN_OBS>
+ <STDV_OBS>   8.25610769E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1425 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.06615325E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.894008338     </BIAS>
+ <RMSE>  0.321629316     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1425 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.644199371     </BIAS>
+ <RMSE>   6.73549101E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.83050805E-02 </MEAN_OBS>
+ <STDV_OBS>   6.06676767E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1442 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   8.35146420E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.653451085     </BIAS>
+ <RMSE>  0.475083500     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1442 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.338115603     </BIAS>
+ <RMSE>  0.229853198     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.137290016     </MEAN_OBS>
+ <STDV_OBS>   4.90237362E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1450 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.16418287E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.555936635     </BIAS>
+ <RMSE>  0.539268434     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1450 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.540494025     </BIAS>
+ <RMSE>  0.270014137     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.120604686     </MEAN_OBS>
+ <STDV_OBS>   1.75451685E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1494 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.47704886E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.655278981     </BIAS>
+ <RMSE>  0.326338142     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1494 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.475870848     </BIAS>
+ <RMSE>  0.122854665     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.60806534E-02 </MEAN_OBS>
+ <STDV_OBS>   1.85617682E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.12102844E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.642166793     </BIAS>
+ <RMSE>  0.346880555     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.483171016     </BIAS>
+ <RMSE>   1.02547919E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.99775989E-02 </MEAN_OBS>
+ <STDV_OBS>   6.25400920E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1245 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.73337282E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.403783143     </BIAS>
+ <RMSE>  0.502698898     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1245 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131659508     </BIAS>
+ <RMSE>   2.50741206E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196080625     </MEAN_OBS>
+ <STDV_OBS>   3.20049003E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1344 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.23907375E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.787690043     </BIAS>
+ <RMSE>  0.350405186     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1344 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.471015543     </BIAS>
+ <RMSE>  -1.18187014E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33818433E-02 </MEAN_OBS>
+ <STDV_OBS>   5.39044086E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1364 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.31737521E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.506734908     </BIAS>
+ <RMSE>  0.252809554     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1364 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.228165925     </BIAS>
+ <RMSE>  0.150091141     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219708905     </MEAN_OBS>
+ <STDV_OBS>   1.12622925E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1389 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.01729693E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.824049294     </BIAS>
+ <RMSE>  0.533710599     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1389 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.890101671     </BIAS>
+ <RMSE>   3.45000662E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151399657     </MEAN_OBS>
+ <STDV_OBS>   1.17377371E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1052 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.78390092E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.630607426     </BIAS>
+ <RMSE>  0.354992568     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1052 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.435897440     </BIAS>
+ <RMSE>  0.160398588     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.132586762     </MEAN_OBS>
+ <STDV_OBS>   9.18869118E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1076 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.63037133E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.634022117     </BIAS>
+ <RMSE>  0.289988697     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1076 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.565743268     </BIAS>
+ <RMSE>   3.61683145E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.361590028     </MEAN_OBS>
+ <STDV_OBS>   2.16530114E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1132 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.39145093E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.689426780     </BIAS>
+ <RMSE>  0.462170422     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1132 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.681289494     </BIAS>
+ <RMSE>  -1.67202707E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.39081800E-02 </MEAN_OBS>
+ <STDV_OBS>   2.26935390E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1169 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.41688815E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.368421018     </BIAS>
+ <RMSE>  0.420011699     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1169 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.372698694     </BIAS>
+ <RMSE>   3.33505757E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.290929556     </MEAN_OBS>
+ <STDV_OBS>   8.78201899E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1237 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.28749580E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.704351008     </BIAS>
+ <RMSE>  0.367547065     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1237 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.660722792     </BIAS>
+ <RMSE>  0.128936753     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.183968589     </MEAN_OBS>
+ <STDV_OBS>   2.05211240E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1321 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         892 </NUM>
+ <MEAN>   1.24045828E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.670549333     </BIAS>
+ <RMSE>  0.110223509     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1321 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         892 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.579016209     </BIAS>
+ <RMSE>   4.32412587E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.469653279     </MEAN_OBS>
+ <STDV_OBS>   2.51648109E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1327 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.73679562E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.05213714     </BIAS>
+ <RMSE>  0.349775970     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1327 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.986019790     </BIAS>
+ <RMSE>  -1.64055694E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.188017964     </MEAN_OBS>
+ <STDV_OBS>   1.03155624E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1350 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.64438352E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.882737160     </BIAS>
+ <RMSE>  0.240438640     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1350 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.643216908     </BIAS>
+ <RMSE>   2.19802558E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.23740219E-02 </MEAN_OBS>
+ <STDV_OBS>   7.09829479E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1361 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.38128169E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.351626009     </BIAS>
+ <RMSE>  0.280802518     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1361 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296076179     </BIAS>
+ <RMSE>   2.75112316E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.251638561     </MEAN_OBS>
+ <STDV_OBS>   7.09769491E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1385 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   3.13706296E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.09855294     </BIAS>
+ <RMSE>  0.344217300     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1385 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.977847397     </BIAS>
+ <RMSE>   5.69639588E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102015704     </MEAN_OBS>
+ <STDV_OBS>   5.62387831E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1412 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.41968438E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.707321882     </BIAS>
+ <RMSE>  0.256400377     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1412 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.425316900     </BIAS>
+ <RMSE>  0.412284583     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.187118635     </MEAN_OBS>
+ <STDV_OBS>  0.196310639     </STDV_OBS>
+ <EXP>
+ <ID>        1477 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   1.25648845E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.999619484     </BIAS>
+ <RMSE>  0.375825614     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1477 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.849478602     </BIAS>
+ <RMSE>  0.408738464     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111858577     </MEAN_OBS>
+ <STDV_OBS>  0.148044914     </STDV_OBS>
+ <EXP>
+ <ID>        1480 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   9.47733317E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.966988802     </BIAS>
+ <RMSE>  0.320767224     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1480 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.620241404     </BIAS>
+ <RMSE>  0.286313415     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.121718958     </MEAN_OBS>
+ <STDV_OBS>   1.21749137E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1490 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         861 </NUM>
+ <MEAN>   1.25147581E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.04575348     </BIAS>
+ <RMSE>  0.345220894     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1490 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         861 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.821325004     </BIAS>
+ <RMSE>  0.319667786     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.03582934E-02 </MEAN_OBS>
+ <STDV_OBS>   5.52137317E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1082 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.44508418E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.502376795     </BIAS>
+ <RMSE>  -2.38065550E-04 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1082 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.404448301     </BIAS>
+ <RMSE>   1.81595236E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.586226404     </MEAN_OBS>
+ <STDV_OBS>   4.12662374E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1135 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.66307524E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.862234354     </BIAS>
+ <RMSE>  0.416525960     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1135 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.826424897     </BIAS>
+ <RMSE>   2.71630473E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209070548     </MEAN_OBS>
+ <STDV_OBS>   1.37235047E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1147 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.73918277E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.491124213     </BIAS>
+ <RMSE>  0.454974264     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1147 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.427273929     </BIAS>
+ <RMSE>  -1.57174524E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.345465124     </MEAN_OBS>
+ <STDV_OBS>   6.91164605E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.62112210E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.459579378     </BIAS>
+ <RMSE>  0.596537471     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.534234285     </BIAS>
+ <RMSE>   8.37954655E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.211310074     </MEAN_OBS>
+ <STDV_OBS>   1.31222288E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1227 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.31481311E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.670112729     </BIAS>
+ <RMSE>  0.239302099     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1227 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.629006207     </BIAS>
+ <RMSE>  0.279531002     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25868055E-02 </MEAN_OBS>
+ <STDV_OBS>   1.85191294E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1230 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.71766174E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.229561985     </BIAS>
+ <RMSE>  0.516867220     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1230 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.108471014     </BIAS>
+ <RMSE>  -6.18780730E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.86897743E-02 </MEAN_OBS>
+ <STDV_OBS>   7.59914890E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1232 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.55190558E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.548930347     </BIAS>
+ <RMSE>  0.309988141     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1232 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.248943239     </BIAS>
+ <RMSE>  0.365866840     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118252963     </MEAN_OBS>
+ <STDV_OBS>   1.58193726E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1253 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.35948318E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.521844804     </BIAS>
+ <RMSE>  0.399670839     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1253 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.275848985     </BIAS>
+ <RMSE>  -1.93333637E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125083968     </MEAN_OBS>
+ <STDV_OBS>   1.87241740E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1254 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.04514750E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.615033209     </BIAS>
+ <RMSE>  0.319497436     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1254 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.315584302     </BIAS>
+ <RMSE>   2.30484121E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.509518504     </MEAN_OBS>
+ <STDV_OBS>   4.99812413E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1291 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.15767843E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.819254100     </BIAS>
+ <RMSE>  0.569844663     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1291 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.930073082     </BIAS>
+ <RMSE>  0.152233526     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.220492631     </MEAN_OBS>
+ <STDV_OBS>   2.51803151E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1314 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.90300468E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.855023861     </BIAS>
+ <RMSE>  0.305662364     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1314 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.536972761     </BIAS>
+ <RMSE>  -1.10843070E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.249160141     </MEAN_OBS>
+ <STDV_OBS>   9.27373039E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1332 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.41735081E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.547623217     </BIAS>
+ <RMSE>  0.290409207     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1332 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.459280044     </BIAS>
+ <RMSE>   5.37646078E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.228891253     </MEAN_OBS>
+ <STDV_OBS>   5.11440681E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1345 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.40883271E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.713428378     </BIAS>
+ <RMSE>  0.227680027     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1345 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.415780813     </BIAS>
+ <RMSE>  -3.81144765E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299104422     </MEAN_OBS>
+ <STDV_OBS>   3.06691545E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1366 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.79301911E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.615357995     </BIAS>
+ <RMSE>  0.399329156     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1366 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.629327238     </BIAS>
+ <RMSE>  0.114636332     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.23067427E-02 </MEAN_OBS>
+ <STDV_OBS>   2.23752155E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1416 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.19297647E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.563581288     </BIAS>
+ <RMSE>  0.266171396     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1416 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.390930742     </BIAS>
+ <RMSE>   3.97673808E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149495959     </MEAN_OBS>
+ <STDV_OBS>   5.71704376E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1419 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.07684861E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.718313634     </BIAS>
+ <RMSE>  0.265684783     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1419 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.383929580     </BIAS>
+ <RMSE>  -1.23997144E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.196752518     </MEAN_OBS>
+ <STDV_OBS>   1.16718715E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.93657706E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.683303952     </BIAS>
+ <RMSE>  0.706742227     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1435 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.632548869     </BIAS>
+ <RMSE>  0.115058161     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.31638351E-02 </MEAN_OBS>
+ <STDV_OBS>   5.91825919E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1455 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   7.14094267E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.722617686     </BIAS>
+ <RMSE>  0.187860489     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1455 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.353384078     </BIAS>
+ <RMSE>   2.20116484E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149600938     </MEAN_OBS>
+ <STDV_OBS>   7.22920449E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1462 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   1.00624748E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.18003750     </BIAS>
+ <RMSE>  0.319863796     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1462 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.638025880     </BIAS>
+ <RMSE>   7.04330206E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106666654     </MEAN_OBS>
+ <STDV_OBS>   1.27891035E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1481 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   1.04088731E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.787705123     </BIAS>
+ <RMSE>  0.311068982     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1481 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.519344747     </BIAS>
+ <RMSE>  0.250204057     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.227099746     </MEAN_OBS>
+ <STDV_OBS>   1.43077210E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1488 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.60877316E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.05272925     </BIAS>
+ <RMSE>  0.473721981     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1488 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.973069131     </BIAS>
+ <RMSE>  0.383851916     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.186002254     </MEAN_OBS>
+ <STDV_OBS>   7.61660485E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1492 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.45276588E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.04897571     </BIAS>
+ <RMSE>  0.339334577     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1492 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.903703034     </BIAS>
+ <RMSE>  0.330925703     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.222284541     </MEAN_OBS>
+ <STDV_OBS>   9.14913326E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1124 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.88014274E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.526334822     </BIAS>
+ <RMSE>  0.533643782     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1124 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.464761794     </BIAS>
+ <RMSE>  0.199045017     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.414893866     </MEAN_OBS>
+ <STDV_OBS>   7.63960532E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1146 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.98406807E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.836805642     </BIAS>
+ <RMSE>  0.371531010     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1146 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.612733603     </BIAS>
+ <RMSE>   2.88560917E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.101007767     </MEAN_OBS>
+ <STDV_OBS>   8.29552664E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1158 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.10701449E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.393567175     </BIAS>
+ <RMSE>  0.408473492     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1158 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.307438314     </BIAS>
+ <RMSE>   9.36728939E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.09844178E-02 </MEAN_OBS>
+ <STDV_OBS>  0.163579658     </STDV_OBS>
+ <EXP>
+ <ID>        1198 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         833 </NUM>
+ <MEAN>   1.45274112E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.293119550     </BIAS>
+ <RMSE>  0.366150379     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1198 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         833 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.353610069     </BIAS>
+ <RMSE>  -1.74106751E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.23964620E-02 </MEAN_OBS>
+ <STDV_OBS>   3.28062032E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1224 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.17934724E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.486253947     </BIAS>
+ <RMSE>  0.101683468     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1224 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.24082205E-02 </BIAS>
+ <RMSE>  -1.76096689E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.12877963E-02 </MEAN_OBS>
+ <STDV_OBS>   3.76306853E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1239 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.33130821E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.492122978     </BIAS>
+ <RMSE>  0.182888240     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1239 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.227527171     </BIAS>
+ <RMSE>  0.108698145     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.470549524     </MEAN_OBS>
+ <STDV_OBS>   1.08176704E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1326 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.05004617E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.05511093     </BIAS>
+ <RMSE>  0.392511457     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1326 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.966120303     </BIAS>
+ <RMSE>  -4.57783230E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.97760221E-02 </MEAN_OBS>
+ <STDV_OBS>   3.26207461E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1365 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.78988685E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.697543502     </BIAS>
+ <RMSE>  0.428162992     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1365 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.320617557     </BIAS>
+ <RMSE>   1.91355739E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.145464405     </MEAN_OBS>
+ <STDV_OBS>   4.40716613E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1417 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.48939635E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.785637259     </BIAS>
+ <RMSE>  0.279002637     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1417 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.298544765     </BIAS>
+ <RMSE>   9.08390060E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118192047     </MEAN_OBS>
+ <STDV_OBS>   9.80266050E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1444 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   1.29561386E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.863587737     </BIAS>
+ <RMSE>  0.454484284     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1444 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.518431604     </BIAS>
+ <RMSE>  0.160387322     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.06214648E-02 </MEAN_OBS>
+ <STDV_OBS>   6.13017692E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1449 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   6.73162094E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.681241691     </BIAS>
+ <RMSE>  0.623492062     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1449 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.222494826     </BIAS>
+ <RMSE>   4.84478883E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.58192176E-02 </MEAN_OBS>
+ <STDV_OBS>   9.25273343E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1453 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   1.00150874E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.642758548     </BIAS>
+ <RMSE>  0.404428035     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1453 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.212902039     </BIAS>
+ <RMSE>  -2.86599086E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.95972447E-02 </MEAN_OBS>
+ <STDV_OBS>  0.191793784     </STDV_OBS>
+ <EXP>
+ <ID>        1486 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         869 </NUM>
+ <MEAN>   1.24630900E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.795683742     </BIAS>
+ <RMSE>  0.261764944     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1486 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         869 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.202924699     </BIAS>
+ <RMSE>  0.550503314     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.36107405E-02 </MEAN_OBS>
+ <STDV_OBS>   4.27433733E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1036 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   4.54392784E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.380938113     </BIAS>
+ <RMSE>  0.373690844     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1036 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.216216490     </BIAS>
+ <RMSE>   1.34214796E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.203247443     </MEAN_OBS>
+ <STDV_OBS>   1.55047234E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1374 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.90416203E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.962391973     </BIAS>
+ <RMSE>  0.389909834     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1374 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.710222483     </BIAS>
+ <RMSE>  -4.52549051E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.135498315     </MEAN_OBS>
+ <STDV_OBS>   2.44217081E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1463 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.79540730E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.822135031     </BIAS>
+ <RMSE>  0.325940669     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1463 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.658470273     </BIAS>
+ <RMSE>  0.191852629     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.75031887E-02 </MEAN_OBS>
+ <STDV_OBS>  0.301556796     </STDV_OBS>
+ <EXP>
+ <ID>        6270 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         789 </NUM>
+ <MEAN>   1.72003862E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.501734376     </BIAS>
+ <RMSE>   3.27741131E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6270 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         789 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.321706265     </BIAS>
+ <RMSE>  -1.44920526E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.08234981E-02 </MEAN_OBS>
+ <STDV_OBS>   3.55892070E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6235 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         850 </NUM>
+ <MEAN>   1.82942022E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.357783407     </BIAS>
+ <RMSE>   8.55529085E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6235 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         850 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.303608388     </BIAS>
+ <RMSE>  -1.20618660E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.85781050E-02 </MEAN_OBS>
+ <STDV_OBS>   9.13523063E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6240 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   4.88457549E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.342671931     </BIAS>
+ <RMSE>  0.127885774     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6240 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.340781599     </BIAS>
+ <RMSE>  -1.44715607E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.81584908E-02 </MEAN_OBS>
+ <STDV_OBS>  0.120240375     </STDV_OBS>
+ <EXP>
+ <ID>        6269 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   7.00490735E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.316254497     </BIAS>
+ <RMSE>   4.06658314E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6269 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.235084221     </BIAS>
+ <RMSE>  -1.69419944E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.31934749E-02 </MEAN_OBS>
+ <STDV_OBS>  0.153823853     </STDV_OBS>
+ <EXP>
+ <ID>        6280 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   7.90212676E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.465543807     </BIAS>
+ <RMSE>   5.18666022E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6280 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.188167781     </BIAS>
+ <RMSE>  -1.10978056E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.12121278E-02 </MEAN_OBS>
+ <STDV_OBS>   7.33154193E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6344 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   3.35692475E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.298472822     </BIAS>
+ <RMSE>  0.120209269     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6344 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.299756974     </BIAS>
+ <RMSE>  -1.12361517E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.98368156E-02 </MEAN_OBS>
+ <STDV_OBS>   5.37260212E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6370 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   3.23705701E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.725514948     </BIAS>
+ <RMSE>   1.48178656E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6370 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         858 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.498714030     </BIAS>
+ <RMSE>  -9.71144624E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.43825780E-02 </MEAN_OBS>
+ <STDV_OBS>  0.128256321     </STDV_OBS>
+ <EXP>
+ <ID>        6275 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         826 </NUM>
+ <MEAN>   6.45835744E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.179649115     </BIAS>
+ <RMSE>  0.157716200     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6275 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         826 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.187117726     </BIAS>
+ <RMSE>  -1.28417313E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.39905100E-02 </MEAN_OBS>
+ <STDV_OBS>   2.47851256E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6350 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         842 </NUM>
+ <MEAN>   8.95643025E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.236053541     </BIAS>
+ <RMSE>  0.141314298     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6350 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         842 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9.51816663E-02 </BIAS>
+ <RMSE>  -9.44604445E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.42686039E-02 </MEAN_OBS>
+ <STDV_OBS>   4.41785306E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6375 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         834 </NUM>
+ <MEAN>   1.85804465E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.508641124     </BIAS>
+ <RMSE>   3.58235501E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6375 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         834 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.390166730     </BIAS>
+ <RMSE>  -6.97188545E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.32616062E-02 </MEAN_OBS>
+ <STDV_OBS>   2.59843782E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   3.40806218E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.450952232     </BIAS>
+ <RMSE>  0.125633299     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2476 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.343203306     </BIAS>
+ <RMSE>   9.77755804E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.05221358E-02 </MEAN_OBS>
+ <STDV_OBS>   3.20039326E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   2.67158725E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.955158234     </BIAS>
+ <RMSE>  0.101113185     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2565 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.305303901     </BIAS>
+ <RMSE>  0.286454171     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.289635569     </MEAN_OBS>
+ <STDV_OBS>   4.75586355E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         878 </NUM>
+ <MEAN>   2.26651994E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.672711015     </BIAS>
+ <RMSE>  0.497481614     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         878 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.669581413     </BIAS>
+ <RMSE>  -5.78566222E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.171265692     </MEAN_OBS>
+ <STDV_OBS>   1.25567269     </STDV_OBS>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   5.90439886E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.771563470     </BIAS>
+ <RMSE>  0.270040870     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2408 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.43179429     </BIAS>
+ <RMSE>  -1.19378585E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.27468634E-02 </MEAN_OBS>
+ <STDV_OBS>   6.86471612E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.36273546E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.629254401     </BIAS>
+ <RMSE>  0.404607922     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2431 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.490937114     </BIAS>
+ <RMSE>  -4.76558600E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.44154364E-02 </MEAN_OBS>
+ <STDV_OBS>   9.61775004E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.94978064E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.413688630     </BIAS>
+ <RMSE>  0.257297993     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2611 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.21864311E-02 </BIAS>
+ <RMSE>  -2.80609168E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.67877411E-02 </MEAN_OBS>
+ <STDV_OBS>   6.12219228E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   4.46311788E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.544917822     </BIAS>
+ <RMSE>  -3.03473230E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2635 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.186271176     </BIAS>
+ <RMSE>  -9.95086879E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.44835394E-03 </MEAN_OBS>
+ <STDV_OBS>   2.85401029E-06 </STDV_OBS>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   2.31246901E-07 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.10179448     </BIAS>
+ <RMSE>  -1.25981737E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2625 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.82829884E-02 </BIAS>
+ <RMSE>   8.00620764E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.81611849E-03 </MEAN_OBS>
+ <STDV_OBS>   1.06080581E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   7.26092412E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.843339682     </BIAS>
+ <RMSE>  -3.27636697E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2628 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.33547932E-02 </BIAS>
+ <RMSE>  -9.08501074E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.25085098E-02 </MEAN_OBS>
+ <STDV_OBS>   3.24159191E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   6.50008633E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.348590195     </BIAS>
+ <RMSE>  0.556297362     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2207 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.318991989     </BIAS>
+ <RMSE>  0.200241610     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.24517691E-02 </MEAN_OBS>
+ <STDV_OBS>   9.42621336E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.13436908E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.524435222     </BIAS>
+ <RMSE>  0.208217293     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2648 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.279192090     </BIAS>
+ <RMSE>  -1.26310182E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.115891024     </MEAN_OBS>
+ <STDV_OBS>   3.87906039E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   1.67123326E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.668988764     </BIAS>
+ <RMSE>  0.211904839     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2618 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.536984921     </BIAS>
+ <RMSE>  -3.40826460E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.43419549E-02 </MEAN_OBS>
+ <STDV_OBS>  0.491180688     </STDV_OBS>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   1.64790750E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.493319422     </BIAS>
+ <RMSE>  0.154658332     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2567 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.608897269     </BIAS>
+ <RMSE>  -6.04361715E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.58456369E-02 </MEAN_OBS>
+ <STDV_OBS>   5.52621204E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   4.32860816E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.361929834     </BIAS>
+ <RMSE>  0.323749125     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2563 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.293347061     </BIAS>
+ <RMSE>   5.14876796E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.17366710E-02 </MEAN_OBS>
+ <STDV_OBS>   1.62141735E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.82257926E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.495244384     </BIAS>
+ <RMSE>  0.313369334     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2505 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.436093688     </BIAS>
+ <RMSE>   1.61978323E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.61861619E-02 </MEAN_OBS>
+ <STDV_OBS>   2.06698896E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   7.36759612E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.623326600     </BIAS>
+ <RMSE>  0.174655065     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.294586033     </BIAS>
+ <RMSE>  -1.38018047E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.08626487E-03 </MEAN_OBS>
+ <STDV_OBS>   1.54145655E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   1.12484327E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.917640150     </BIAS>
+ <RMSE>   3.09886131E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2575 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.39473209E-02 </BIAS>
+ <RMSE>   9.05980095E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.08059126E-04 </MEAN_OBS>
+ <STDV_OBS>   7.66355358E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   3.64074687E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.843764901     </BIAS>
+ <RMSE>  0.206482202     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2644 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.22190807E-02 </BIAS>
+ <RMSE>  -4.55035036E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.12231050E-02 </MEAN_OBS>
+ <STDV_OBS>   4.47939476E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   1.59601565E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.644476175     </BIAS>
+ <RMSE>   6.76461831E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2605 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         883 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.223605216     </BIAS>
+ <RMSE>  0.128546417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.362038463     </MEAN_OBS>
+ <STDV_OBS>   1.83638418E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.25581083E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.877143145     </BIAS>
+ <RMSE>  0.355318457     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.779796183     </BIAS>
+ <RMSE>  -4.31551272E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.94086705E-02 </MEAN_OBS>
+ <STDV_OBS>  0.232582435     </STDV_OBS>
+ <EXP>
+ <ID>        6273 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         761 </NUM>
+ <MEAN>   1.64224859E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.277270794     </BIAS>
+ <RMSE>   9.58185196E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6273 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         761 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.336966068     </BIAS>
+ <RMSE>  -1.45024862E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.04898313E-02 </MEAN_OBS>
+ <STDV_OBS>  0.218822464     </STDV_OBS>
+ <EXP>
+ <ID>        6290 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         837 </NUM>
+ <MEAN>   1.86269730E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.408582985     </BIAS>
+ <RMSE>  0.192047149     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6290 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         837 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.384791076     </BIAS>
+ <RMSE>   1.30118411E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.80790983E-02 </MEAN_OBS>
+ <STDV_OBS>   9.10016315E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   7.03837622E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.586307228     </BIAS>
+ <RMSE>  0.133827657     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2490 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.105173655     </BIAS>
+ <RMSE>   7.79474005E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.15229490E-02 </MEAN_OBS>
+ <STDV_OBS>   7.06359884E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.39419925E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.450476170     </BIAS>
+ <RMSE>  0.223137558     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2516 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.344109714     </BIAS>
+ <RMSE>  -7.33843539E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118812956     </MEAN_OBS>
+ <STDV_OBS>   1.21354393E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.71613494E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.629930496     </BIAS>
+ <RMSE>  0.234641090     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2539 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.424962431     </BIAS>
+ <RMSE>  -4.80907457E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.11534131E-02 </MEAN_OBS>
+ <STDV_OBS>   2.02473309E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.81992504E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.696392000     </BIAS>
+ <RMSE>  0.113810852     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2540 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.419464439     </BIAS>
+ <RMSE>  0.152226031     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.33146647E-02 </MEAN_OBS>
+ <STDV_OBS>   5.95744234E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.00823488E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.542880595     </BIAS>
+ <RMSE>  0.214945093     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2542 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.404150873     </BIAS>
+ <RMSE>  -6.45257672E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.09610403     </MEAN_OBS>
+ <STDV_OBS>   1.27326974E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   4.04924540E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.45009291     </BIAS>
+ <RMSE>  -2.89138649E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2544 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          77 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26698601     </BIAS>
+ <RMSE>  0.173244566     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.72500014     </MEAN_OBS>
+ <STDV_OBS>   1.77882961E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   5.64025504E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.57859480     </BIAS>
+ <RMSE>   5.61875887E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2545 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          36 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.55730247     </BIAS>
+ <RMSE>   2.97875218E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108174689     </MEAN_OBS>
+ <STDV_OBS>   3.00525426E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.60643885E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.554350972     </BIAS>
+ <RMSE>  0.154910550     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2546 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.493230015     </BIAS>
+ <RMSE>   9.48878080E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.64837712E-02 </MEAN_OBS>
+ <STDV_OBS>   1.35420283E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   9.72572161E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.515480459     </BIAS>
+ <RMSE>  0.107199810     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2548 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.411754519     </BIAS>
+ <RMSE>   5.39148711E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.138521805     </MEAN_OBS>
+ <STDV_OBS>   6.24391469E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.15195745E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.717352092     </BIAS>
+ <RMSE>  0.232059583     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2549 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.614449024     </BIAS>
+ <RMSE>   6.79532811E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.79629619E-02 </MEAN_OBS>
+ <STDV_OBS>   2.66680215E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         756 </NUM>
+ <MEAN>   2.18862668E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.539086401     </BIAS>
+ <RMSE>  0.270427316     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2552 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         756 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.167305723     </BIAS>
+ <RMSE>  -1.86782833E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.97389347E-02 </MEAN_OBS>
+ <STDV_OBS>   6.42824016E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   4.20611923E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.350948721     </BIAS>
+ <RMSE>  0.181252807     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2554 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197083205     </BIAS>
+ <RMSE>   5.52222021E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.777536154     </MEAN_OBS>
+ <STDV_OBS>   1.70938659     </STDV_OBS>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>  0.318629950     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.53042734     </BIAS>
+ <RMSE>   2.42142733E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2556 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         138 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   2.21282172     </BIAS>
+ <RMSE>  -7.02241734E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100794561     </MEAN_OBS>
+ <STDV_OBS>   1.34640519E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   6.05514060E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.766716957     </BIAS>
+ <RMSE>  0.167043522     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2557 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.562839329     </BIAS>
+ <RMSE>  -6.77723903E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.65266795E-02 </MEAN_OBS>
+ <STDV_OBS>   4.26158840E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   2.95216773E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.478828102     </BIAS>
+ <RMSE>  0.217077404     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2558 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.356238544     </BIAS>
+ <RMSE>   3.31902765E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.38857812E-02 </MEAN_OBS>
+ <STDV_OBS>   1.20407996E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.64016807E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.959893584     </BIAS>
+ <RMSE>   2.18971670E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2559 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.93865100E-02 </BIAS>
+ <RMSE>  -2.81986198E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.988679349     </MEAN_OBS>
+ <STDV_OBS>  0.576810777     </STDV_OBS>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>  0.148021415     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.00231946     </BIAS>
+ <RMSE> -0.221247703     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2561 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          53 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.06907916     </BIAS>
+ <RMSE> -0.309424281     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2587 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>           6 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.104767315     </MEAN_OBS>
+ <STDV_OBS>   6.85641135E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   6.08276287E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.824708641     </BIAS>
+ <RMSE>  0.109670669     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2622 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.521676242     </BIAS>
+ <RMSE>  -1.17646055E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.92962550E-02 </MEAN_OBS>
+ <STDV_OBS>   3.99051678E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   2.94295410E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.513929546     </BIAS>
+ <RMSE>   1.48582654E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2623 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.115692772     </BIAS>
+ <RMSE>  -7.49221398E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.577419400     </MEAN_OBS>
+ <STDV_OBS>  0.331669480     </STDV_OBS>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          62 </NUM>
+ <MEAN>   8.30160454E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.646037638     </BIAS>
+ <RMSE>   5.77110872E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2629 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          62 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.686332464     </BIAS>
+ <RMSE>  -7.75497705E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.270512909     </MEAN_OBS>
+ <STDV_OBS>  0.313908964     </STDV_OBS>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   8.17181617E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.768675983     </BIAS>
+ <RMSE>  -3.35812345E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2661 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          78 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.396734446     </BIAS>
+ <RMSE>   4.68039438E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.146666691     </MEAN_OBS>
+ <STDV_OBS>   4.96112555E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   1.38812175E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   7.25888535E-02 </BIAS>
+ <RMSE>  0.234834909     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2667 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          15 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.86199148E-02 </BIAS>
+ <RMSE>  0.309391230     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.62486036E-02 </MEAN_OBS>
+ <STDV_OBS>   5.84829715E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.32661368E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.441190511     </BIAS>
+ <RMSE>  0.181133479     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.262504935     </BIAS>
+ <RMSE>   1.68191995E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.77379730E-02 </MEAN_OBS>
+ <STDV_OBS>   8.39272048E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.84461043E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.436997265     </BIAS>
+ <RMSE>   3.53758000E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.266722441     </BIAS>
+ <RMSE>   3.30826528E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.17693220E-02 </MEAN_OBS>
+ <STDV_OBS>   7.66365379E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.56725121E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.334091693     </BIAS>
+ <RMSE>  0.344866097     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.329580039     </BIAS>
+ <RMSE>   6.16038730E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.23852026E-02 </MEAN_OBS>
+ <STDV_OBS>  0.134560212     </STDV_OBS>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.50740242E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.502393484     </BIAS>
+ <RMSE>  0.220364735     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2317 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.407339185     </BIAS>
+ <RMSE>  -7.94904586E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.49167353E-02 </MEAN_OBS>
+ <STDV_OBS>  0.320840597     </STDV_OBS>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         901 </NUM>
+ <MEAN>   1.35176685E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.394663006     </BIAS>
+ <RMSE>  0.283793837     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2319 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         901 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.467726767     </BIAS>
+ <RMSE>  -9.29222163E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.91377330E-02 </MEAN_OBS>
+ <STDV_OBS>   4.28547990E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.47515850E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.519771934     </BIAS>
+ <RMSE>   5.75201698E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2321 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.384909540     </BIAS>
+ <RMSE>  -7.37097068E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.61477947E-02 </MEAN_OBS>
+ <STDV_OBS>  0.204494536     </STDV_OBS>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.84837112E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.439319104     </BIAS>
+ <RMSE>  0.280934632     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2325 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.414038569     </BIAS>
+ <RMSE>   2.26793019E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.23292294E-02 </MEAN_OBS>
+ <STDV_OBS>   3.46190785E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.20047065E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.356569797     </BIAS>
+ <RMSE>   1.96146853E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2329 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.281611890     </BIAS>
+ <RMSE>  -5.14401356E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.18250961E-03 </MEAN_OBS>
+ <STDV_OBS>  0.323221028     </STDV_OBS>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   1.99337713E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   9.43883657E-02 </BIAS>
+ <RMSE>  0.857431829     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2331 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         263 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.306430161     </BIAS>
+ <RMSE>  0.454452366     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.98320200E-02 </MEAN_OBS>
+ <STDV_OBS>   2.10121330E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.05700892E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.389292151     </BIAS>
+ <RMSE>  0.358469695     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2368 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.313283741     </BIAS>
+ <RMSE>  -5.00753289E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.56662914E-02 </MEAN_OBS>
+ <STDV_OBS>   1.64591875E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.53513470E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.492893249     </BIAS>
+ <RMSE>  0.315286070     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2382 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.437947392     </BIAS>
+ <RMSE>  -6.02190802E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.68197179E-02 </MEAN_OBS>
+ <STDV_OBS>   1.11098159E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.78416240E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.547492504     </BIAS>
+ <RMSE>  0.231826290     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2403 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.368344188     </BIAS>
+ <RMSE>  -5.43549424E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.178835407     </MEAN_OBS>
+ <STDV_OBS>   1.59200206E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   5.37152286E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.669110894     </BIAS>
+ <RMSE>  0.307552457     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2423 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.666401982     </BIAS>
+ <RMSE>  -8.33552517E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.191265494     </MEAN_OBS>
+ <STDV_OBS>   6.27916714E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.63931670E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.918974340     </BIAS>
+ <RMSE>  0.126149923     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2426 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.761211157     </BIAS>
+ <RMSE>   1.19150504E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.143896982     </MEAN_OBS>
+ <STDV_OBS>   6.08553290E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.04347400E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.967581272     </BIAS>
+ <RMSE>  0.191278934     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2429 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.638960183     </BIAS>
+ <RMSE>  -7.27785612E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.53975531E-02 </MEAN_OBS>
+ <STDV_OBS>   1.44089136E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.35037463E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.362122625     </BIAS>
+ <RMSE>  0.166178793     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2441 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.288604230     </BIAS>
+ <RMSE>   9.68716200E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.271999955     </MEAN_OBS>
+ <STDV_OBS>   1.49347150     </STDV_OBS>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>  0.373674542     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.566384494     </BIAS>
+ <RMSE>  -5.47028929E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2443 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.48396122     </BIAS>
+ <RMSE>   3.66808437E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.38138470E-02 </MEAN_OBS>
+ <STDV_OBS>   7.39767274E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.15685088E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.350610554     </BIAS>
+ <RMSE>  0.140269369     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2449 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.273300111     </BIAS>
+ <RMSE>  0.120770991     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.93727455E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         835 </NUM>
+ <MEAN>   5.54115877E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.411807567     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2481 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         835 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.93371842E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.98710606E-02 </MEAN_OBS>
+ <STDV_OBS>   3.02166845E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   3.23695826E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.527132452     </BIAS>
+ <RMSE>  0.355819732     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2482 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         853 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.357198864     </BIAS>
+ <RMSE>   2.91895960E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.33706699E-02 </MEAN_OBS>
+ <STDV_OBS>   1.01149592E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.24588483E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.557097971     </BIAS>
+ <RMSE>  0.128263488     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2486 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213396579     </BIAS>
+ <RMSE>   1.16930064E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.676363468     </MEAN_OBS>
+ <STDV_OBS>  0.662643850     </STDV_OBS>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>  0.102467366     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.65206158     </BIAS>
+ <RMSE>  -4.64787520E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2489 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         110 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.31542742     </BIAS>
+ <RMSE>   7.15742484E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.06469910E-02 </MEAN_OBS>
+ <STDV_OBS>   5.04921918E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.89953834E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.340884447     </BIAS>
+ <RMSE>  0.459006250     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.136819407     </BIAS>
+ <RMSE>   5.01676574E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.46472520E-02 </MEAN_OBS>
+ <STDV_OBS>   1.21362749E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   4.08099004E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.338840187     </BIAS>
+ <RMSE>  0.209157467     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.276035517     </BIAS>
+ <RMSE>  -6.37672795E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.49608237E-02 </MEAN_OBS>
+ <STDV_OBS>   3.16993428E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.55345151E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.410013676     </BIAS>
+ <RMSE>  0.258624166     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.392716497     </BIAS>
+ <RMSE>  0.147461459     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.77752888E-02 </MEAN_OBS>
+ <STDV_OBS>   1.07422622E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   3.93330702E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.404181272     </BIAS>
+ <RMSE>  0.107463017     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.281449288     </BIAS>
+ <RMSE>   5.57408296E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.96752490E-02 </MEAN_OBS>
+ <STDV_OBS>   2.65037124E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.07621394E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.483282238     </BIAS>
+ <RMSE>  0.240274951     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.140559107     </BIAS>
+ <RMSE>  0.109551564     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.83050954E-02 </MEAN_OBS>
+ <STDV_OBS>   5.55838851E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   6.53893858E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.609082639     </BIAS>
+ <RMSE>  0.123086438     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.286457449     </BIAS>
+ <RMSE>   8.06090087E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   7.54659474E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          20 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.39954615E-02 </MEAN_OBS>
+ <STDV_OBS>   4.71885796E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   6.52629024E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.278144300     </BIAS>
+ <RMSE>  0.693875253     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.385697633     </BIAS>
+ <RMSE>  0.138282016     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.46808487E-02 </MEAN_OBS>
+ <STDV_OBS>   4.98094484E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.66919152E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.209189758     </BIAS>
+ <RMSE>  0.456681758     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.161302313     </BIAS>
+ <RMSE>   1.21071860E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.311904788     </MEAN_OBS>
+ <STDV_OBS>  0.236860603     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   6.43192157E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.385859400     </BIAS>
+ <RMSE>  0.311030865     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          84 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.413343966     </BIAS>
+ <RMSE> -0.194695920     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.46360600E-02 </MEAN_OBS>
+ <STDV_OBS>   1.90397482E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   6.41983235E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.423661053     </BIAS>
+ <RMSE>  0.242286548     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.153162703     </BIAS>
+ <RMSE>  -5.29845338E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.15453464E-02 </MEAN_OBS>
+ <STDV_OBS>   2.09320802E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.32688350E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.470691323     </BIAS>
+ <RMSE>  0.323094130     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.191407755     </BIAS>
+ <RMSE>  -5.86272776E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.621977985     </MEAN_OBS>
+ <STDV_OBS>   1.23436892     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          91 </NUM>
+ <MEAN>  0.221273929     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.33394229     </BIAS>
+ <RMSE> -0.189259991     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          91 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.54194391     </BIAS>
+ <RMSE>  -2.43424326E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.91601452E-02 </MEAN_OBS>
+ <STDV_OBS>   1.62059456E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.50571326E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.463224918     </BIAS>
+ <RMSE>   5.22240773E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234351516     </BIAS>
+ <RMSE>  0.114306144     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.91937606E-02 </MEAN_OBS>
+ <STDV_OBS>   8.85370281E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.04591755E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.426777661     </BIAS>
+ <RMSE>   7.25349337E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.233760759     </BIAS>
+ <RMSE>  -5.15477732E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.13101881E-02 </MEAN_OBS>
+ <STDV_OBS>   2.56793646E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.11132624E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.286045730     </BIAS>
+ <RMSE>  0.176782623     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.70544803E-02 </BIAS>
+ <RMSE>  0.185495257     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.49832098E-02 </MEAN_OBS>
+ <STDV_OBS>   5.88111056E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.60762336E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.539186478     </BIAS>
+ <RMSE>  0.198895276     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.252669036     </BIAS>
+ <RMSE>   1.89885701E-04 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.73572246E-02 </MEAN_OBS>
+ <STDV_OBS>   8.09851917E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.44329464E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.369655281     </BIAS>
+ <RMSE>   5.72432168E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.144012034     </BIAS>
+ <RMSE>   3.00975163E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.18141145E-02 </MEAN_OBS>
+ <STDV_OBS>   2.05444335E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.47701852E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.520587921     </BIAS>
+ <RMSE>   5.22247478E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.279730678     </BIAS>
+ <RMSE>  -4.83797304E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.97040769E-02 </MEAN_OBS>
+ <STDV_OBS>   6.76802844E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         811 </NUM>
+ <MEAN>   2.38119485E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.364604115     </BIAS>
+ <RMSE>   1.14637176E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2231 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         811 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.307699561     </BIAS>
+ <RMSE>  -4.64636367E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100335963     </MEAN_OBS>
+ <STDV_OBS>   7.31919333E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.45526689E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.396790713     </BIAS>
+ <RMSE>  0.321520984     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.367705941     </BIAS>
+ <RMSE>   6.43206984E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102259889     </MEAN_OBS>
+ <STDV_OBS>   6.33747429E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   2.70674378E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.412396908     </BIAS>
+ <RMSE>  0.385920614     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.418400288     </BIAS>
+ <RMSE>   4.53834347E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.36394194E-02 </MEAN_OBS>
+ <STDV_OBS>   4.74322289E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.59201410E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.298181117     </BIAS>
+ <RMSE>  0.442328811     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.291956156     </BIAS>
+ <RMSE>  0.108324490     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.18029113E-02 </MEAN_OBS>
+ <STDV_OBS>   9.89948139E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.31614329E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.487981260     </BIAS>
+ <RMSE>  0.177934811     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199854225     </BIAS>
+ <RMSE>   8.59742686E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.49258983E-02 </MEAN_OBS>
+ <STDV_OBS>   2.07587723E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   9.75775532E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.358247787     </BIAS>
+ <RMSE>  0.238924995     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         877 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.249636829     </BIAS>
+ <RMSE>   3.67870927E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.78923826E-02 </MEAN_OBS>
+ <STDV_OBS>   5.45240678E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         892 </NUM>
+ <MEAN>   1.82953838E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.432640940     </BIAS>
+ <RMSE>  0.207654461     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         892 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.202041760     </BIAS>
+ <RMSE>  0.158595279     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.65733509E-02 </MEAN_OBS>
+ <STDV_OBS>   7.77442157E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   2.60580191E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.430427790     </BIAS>
+ <RMSE>  0.222177699     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.125112608     </BIAS>
+ <RMSE>   2.78780293E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.79480296E-02 </MEAN_OBS>
+ <STDV_OBS>   7.77234800E-06 </STDV_OBS>
+ <EXP>
+ <ID>        6319 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         731 </NUM>
+ <MEAN>   8.02012948E-07 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.473963439     </BIAS>
+ <RMSE>  -6.73371600E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6319 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         731 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.457834899     </BIAS>
+ <RMSE>  -1.22586256E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71547043E-02 </MEAN_OBS>
+ <STDV_OBS>  0.138264984     </STDV_OBS>
+ <EXP>
+ <ID>        6391 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         724 </NUM>
+ <MEAN>   7.88467750E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.210739806     </BIAS>
+ <RMSE>  0.277840406     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6391 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         724 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.219648629     </BIAS>
+ <RMSE>   5.11861034E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.43478280E-02 </MEAN_OBS>
+ <STDV_OBS>   5.42213020E-05 </STDV_OBS>
+ <EXP>
+ <ID>        6257 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         736 </NUM>
+ <MEAN>   2.50317385E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.360926837     </BIAS>
+ <RMSE>  0.160829350     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6257 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         736 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.296139508     </BIAS>
+ <RMSE>  -4.10143519E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.80748799E-02 </MEAN_OBS>
+ <STDV_OBS>   9.51596573E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6277 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         748 </NUM>
+ <MEAN>   5.30742155E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.590543211     </BIAS>
+ <RMSE>   4.63711992E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6277 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         748 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.401105762     </BIAS>
+ <RMSE>  -1.11754462E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.07650345E-02 </MEAN_OBS>
+ <STDV_OBS>   2.79179396E-04 </STDV_OBS>
+ <EXP>
+ <ID>        6249 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         732 </NUM>
+ <MEAN>   1.60758027E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.300540596     </BIAS>
+ <RMSE>   4.60208878E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6249 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         732 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.100848280     </BIAS>
+ <RMSE>  -6.90013776E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.91439754E-02 </MEAN_OBS>
+ <STDV_OBS>   7.70875977E-06 </STDV_OBS>
+ <EXP>
+ <ID>        6330 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         771 </NUM>
+ <MEAN>   8.47297883E-07 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.277523309     </BIAS>
+ <RMSE>  0.125674546     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6330 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         771 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.270329177     </BIAS>
+ <RMSE>   4.44654282E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.89617572E-02 </MEAN_OBS>
+ <STDV_OBS>   1.00432821E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6278 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         732 </NUM>
+ <MEAN>   3.77639139E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.472225338     </BIAS>
+ <RMSE>  0.113184787     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6278 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         732 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133030280     </BIAS>
+ <RMSE>  -7.44334236E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.60452694E-02 </MEAN_OBS>
+ <STDV_OBS>   1.33316300E-03 </STDV_OBS>
+ <EXP>
+ <ID>        6267 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         751 </NUM>
+ <MEAN>   5.40082692E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.496047646     </BIAS>
+ <RMSE>   4.77726310E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6267 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         751 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.424437910     </BIAS>
+ <RMSE>  -6.26989733E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55525836E-02 </MEAN_OBS>
+ <STDV_OBS>   9.64842141E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6356 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         751 </NUM>
+ <MEAN>   6.46894099E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.316121340     </BIAS>
+ <RMSE>   5.73827773E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6356 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         751 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.167808160     </BIAS>
+ <RMSE>  -1.75707303E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.38364835E-02 </MEAN_OBS>
+ <STDV_OBS>   3.37029696E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6251 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         795 </NUM>
+ <MEAN>   1.53741462E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.517690003     </BIAS>
+ <RMSE>  -6.49296073E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6251 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         795 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.100461185     </BIAS>
+ <RMSE>  -6.68411097E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.78331107E-02 </MEAN_OBS>
+ <STDV_OBS>   1.99369248E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6279 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         743 </NUM>
+ <MEAN>   7.35497451E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.425066799     </BIAS>
+ <RMSE>  0.112184450     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6279 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         743 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.275485605     </BIAS>
+ <RMSE>  -8.83898605E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.12994193E-02 </MEAN_OBS>
+ <STDV_OBS>   6.03769877E-06 </STDV_OBS>
+ <EXP>
+ <ID>        6260 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   7.27109239E-07 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.184122324     </BIAS>
+ <RMSE>  0.218211845     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6260 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.170710549     </BIAS>
+ <RMSE>  0.148581907     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.116751254     </MEAN_OBS>
+ <STDV_OBS>   5.68704084E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6310 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   2.67524924E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.551232219     </BIAS>
+ <RMSE>   1.73736736E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6310 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         788 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.535747588     </BIAS>
+ <RMSE>  -1.03198765E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.26221085E-02 </MEAN_OBS>
+ <STDV_OBS>   2.23215343E-03 </STDV_OBS>
+ <EXP>
+ <ID>        6283 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   8.44479291E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.220658556     </BIAS>
+ <RMSE>  0.263513416     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6283 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         778 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.142906040     </BIAS>
+ <RMSE>  -5.44093549E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.53938507E-02 </MEAN_OBS>
+ <STDV_OBS>  0.435061067     </STDV_OBS>
+ <EXP>
+ <ID>        6286 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         749 </NUM>
+ <MEAN>   1.59051642E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.333630174     </BIAS>
+ <RMSE>  0.198553786     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6286 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         749 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.523719907     </BIAS>
+ <RMSE>  -5.73278638E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.43724427E-02 </MEAN_OBS>
+ <STDV_OBS>   3.92309017E-02 </STDV_OBS>
+ <EXP>
+ <ID>        6348 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         741 </NUM>
+ <MEAN>   2.05565454E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.269055545     </BIAS>
+ <RMSE>  0.113767527     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6348 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         741 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.261042386     </BIAS>
+ <RMSE>  -1.30790174E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.256521881     </MEAN_OBS>
+ <STDV_OBS>   4.51623986E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2462 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   1.13873219E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.757776856     </BIAS>
+ <RMSE>  -8.98737684E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2462 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          92 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.260199159     </BIAS>
+ <RMSE> -0.122164786     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.220431164     </MEAN_OBS>
+ <STDV_OBS>   1.64251542E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1027 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   6.87765132E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.528391957     </BIAS>
+ <RMSE>  0.294214666     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1027 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.467110842     </BIAS>
+ <RMSE>  -9.66786686E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.83314565E-02 </MEAN_OBS>
+ <STDV_OBS>   2.48519878E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1084 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   1.21459461E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.330699742     </BIAS>
+ <RMSE>  0.109414689     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1084 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.128372341     </BIAS>
+ <RMSE>  -8.65172222E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.402724147     </MEAN_OBS>
+ <STDV_OBS>  0.146354660     </STDV_OBS>
+ <EXP>
+ <ID>        1117 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   7.12352432E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.07049918     </BIAS>
+ <RMSE>  0.244551659     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1117 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.890056193     </BIAS>
+ <RMSE>  0.136994168     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.145062461     </MEAN_OBS>
+ <STDV_OBS>  0.784153521     </STDV_OBS>
+ <EXP>
+ <ID>        1270 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   3.67170200E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.502312541     </BIAS>
+ <RMSE>  0.574339271     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1270 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.749438047     </BIAS>
+ <RMSE>  0.376094460     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.151972950     </MEAN_OBS>
+ <STDV_OBS>  0.754547119     </STDV_OBS>
+ <EXP>
+ <ID>        1272 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   3.46409641E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.536190689     </BIAS>
+ <RMSE>  0.544849634     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1272 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.755961657     </BIAS>
+ <RMSE>  0.292422295     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.298421741     </MEAN_OBS>
+ <STDV_OBS>   7.98832923E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1308 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   2.71354686E-03 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.811527431     </BIAS>
+ <RMSE>  0.393790811     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1308 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.778206706     </BIAS>
+ <RMSE>   1.76591277E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.71476978E-02 </MEAN_OBS>
+ <STDV_OBS>  0.521762669     </STDV_OBS>
+ <EXP>
+ <ID>        1342 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   2.47754455E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.595475554     </BIAS>
+ <RMSE>  0.263355553     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1342 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.664672673     </BIAS>
+ <RMSE>  -1.01291901E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.144983053     </MEAN_OBS>
+ <STDV_OBS>   1.03339517     </STDV_OBS>
+ <EXP>
+ <ID>        1371 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   4.74543273E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.551630557     </BIAS>
+ <RMSE>  0.461429596     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1371 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.12329471     </BIAS>
+ <RMSE>  -1.56220384E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.223562688     </MEAN_OBS>
+ <STDV_OBS>  0.624268770     </STDV_OBS>
+ <EXP>
+ <ID>        1381 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   2.96596438E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.848847926     </BIAS>
+ <RMSE>  0.405228317     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1381 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.964004099     </BIAS>
+ <RMSE>  -1.46017689E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.219863907     </MEAN_OBS>
+ <STDV_OBS>  0.754845560     </STDV_OBS>
+ <EXP>
+ <ID>        1382 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   3.59119959E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.875568688     </BIAS>
+ <RMSE>  0.435744196     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1382 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.05649102     </BIAS>
+ <RMSE>  -1.43355103E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.157094181     </MEAN_OBS>
+ <STDV_OBS>   1.08379710     </STDV_OBS>
+ <EXP>
+ <ID>        1387 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   5.14106564E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.735010803     </BIAS>
+ <RMSE>  0.462333232     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1387 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.26011896     </BIAS>
+ <RMSE>  -1.18023809E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.52310210E-02 </MEAN_OBS>
+ <STDV_OBS>   2.39436273E-02 </STDV_OBS>
+ <EXP>
+ <ID>        1413 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   9.07568319E-04 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.540178776     </BIAS>
+ <RMSE>  0.430706352     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1413 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         887 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.329869419     </BIAS>
+ <RMSE>  -9.55070648E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.82480021E-02 </MEAN_OBS>
+ <STDV_OBS>  0.905825496     </STDV_OBS>
+ <EXP>
+ <ID>        1464 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   4.21789885E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.757486522     </BIAS>
+ <RMSE>  0.290578365     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1464 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         879 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.973154426     </BIAS>
+ <RMSE>  -7.69019732E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.223836541     </MEAN_OBS>
+ <STDV_OBS>   8.93543038E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1485 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   1.02890745E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.24479198     </BIAS>
+ <RMSE>  0.465477258     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1485 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         881 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.36583471     </BIAS>
+ <RMSE>  0.792892396     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.43478271E-03 </MEAN_OBS>
+ <STDV_OBS>  0.679511309     </STDV_OBS>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         552 </NUM>
+ <MEAN>   3.74691449E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.318867296     </BIAS>
+ <RMSE>   3.29884421E-03 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2343 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         552 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.680123866     </BIAS>
+ <RMSE>   2.57209386E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.170486152     </MEAN_OBS>
+ <STDV_OBS>  0.394384712     </STDV_OBS>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         864 </NUM>
+ <MEAN>   2.98169088E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.751030624     </BIAS>
+ <RMSE>  0.254559427     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2411 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         864 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.806141019     </BIAS>
+ <RMSE>  -1.85102262E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.299888104     </MEAN_OBS>
+ <STDV_OBS>   9.47051623E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1386 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.86885731E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   1.23708439     </BIAS>
+ <RMSE>  0.396181107     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1386 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.17540479     </BIAS>
+ <RMSE>   1.75648835E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.243002191     </MEAN_OBS>
+ <STDV_OBS>   1.90072204E-03 </STDV_OBS>
+ <EXP>
+ <ID>        1346 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         886 </NUM>
+ <MEAN>   7.99905392E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.710846364     </BIAS>
+ <RMSE>   5.04118092E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1346 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         886 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.510349035     </BIAS>
+ <RMSE>  -1.70072597E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.129451260     </MEAN_OBS>
+ <STDV_OBS>   7.89848127E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1373 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   8.55785493E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.671527863     </BIAS>
+ <RMSE>  0.415911138     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1373 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.563781679     </BIAS>
+ <RMSE>  0.196794868     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.27211195E-02 </MEAN_OBS>
+ <STDV_OBS>   9.85899678E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1431 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.08298727E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.635129511     </BIAS>
+ <RMSE>  0.387635559     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1431 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.334400654     </BIAS>
+ <RMSE>   6.93760067E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102911502     </MEAN_OBS>
+ <STDV_OBS>   6.27110785E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1265 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.71026680E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.544208646     </BIAS>
+ <RMSE>  0.471750319     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1265 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.437374622     </BIAS>
+ <RMSE>   9.26629305E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.367861331     </MEAN_OBS>
+ <STDV_OBS>   1.14622693E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1192 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.65365182E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.914650261     </BIAS>
+ <RMSE>  0.367931336     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1192 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.757702351     </BIAS>
+ <RMSE>  0.159554034     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.02463670E-02 </MEAN_OBS>
+ <STDV_OBS>   5.20779395E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1370 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   7.90076956E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.541909397     </BIAS>
+ <RMSE>  0.408130050     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1370 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.282355607     </BIAS>
+ <RMSE>  0.175724924     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.42937836E-02 </MEAN_OBS>
+ <STDV_OBS>   7.68633763E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1430 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   9.19949161E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.586766839     </BIAS>
+ <RMSE>   9.34773758E-02 </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1430 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         885 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.233527675     </BIAS>
+ <RMSE>   1.60006620E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.351400346     </MEAN_OBS>
+ <STDV_OBS>   4.58018825E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1319 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   3.40842962E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.970055521     </BIAS>
+ <RMSE>  0.299335212     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1319 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.654573560     </BIAS>
+ <RMSE>   2.00387668E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.263157964     </MEAN_OBS>
+ <STDV_OBS>   2.05661898E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1403 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   1.30014432E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.774282634     </BIAS>
+ <RMSE>  0.441262662     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1403 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         893 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.824416757     </BIAS>
+ <RMSE>  -2.87575019E-03 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   6.53709983E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26115 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>          16 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26046 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.12732386E-02 </STDV_OBS>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   1.16580753E-02 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26226 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>           8 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   1.98992919E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.278314590     </MEAN_OBS>
+ <STDV_OBS>   6.19604471E-05 </STDV_OBS>
+ <EXP>
+ <ID>        1315 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   1.03112143E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.716191232     </BIAS>
+ <RMSE>  0.398318917     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1315 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         890 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.703880727     </BIAS>
+ <RMSE>   3.65155190E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.192727298     </MEAN_OBS>
+ <STDV_OBS>   1.59978808E-04 </STDV_OBS>
+ <EXP>
+ <ID>        1418 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         825 </NUM>
+ <MEAN>   1.68028619E-05 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.728613496     </BIAS>
+ <RMSE>  0.269953966     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1418 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         825 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.581564724     </BIAS>
+ <RMSE>   4.66737784E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.09677492E-02 </MEAN_OBS>
+ <STDV_OBS>   1.02167396E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>cy43_ref2.5km</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   1.12671978E-06 </MEAN>
+ <STDV>   4.70652620E+20 </STDV>
+ <BIAS>  0.279939085     </BIAS>
+ <RMSE>  0.282182962     </RMSE>
+ <CORR>   4.70622783E+20 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2468 </ID>
+ <NAME>cy46_ref2.5km</NAME>
+ <NUM>         310 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.177750602     </BIAS>
+ <RMSE>  0.155900747     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
